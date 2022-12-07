@@ -1,8 +1,8 @@
 import React from 'react';
-export const POST = () => {
+export const POSt = () => {
     return (
         < div>
-            <h2>User</h2>
+            <h2>User2</h2>
         </div>
     )
 }
